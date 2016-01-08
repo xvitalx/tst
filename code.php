@@ -1,6 +1,6 @@
 <?php
 
-nazdar ();
+//nazdar ();
 nazdar2 ();
-
+nazdar3 ();
 ?>
